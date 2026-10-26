@@ -1,43 +1,41 @@
 # Al-Mazid Shisir
 
-> **Undergraduate Researcher & Systems Architect**  
-> Focus: **Applied Mathematics, Post-Quantum Cryptography & Distributed Systems Resilience**  
-> Institutional Affiliation: **Rural Development Academy Laboratory School and College (RDALSC)**  
-> ORCID: [0009-0007-0488-0198](https://orcid.org/0009-0007-0488-0198)
+Undergraduate student and researcher focusing on applied mathematics, post-quantum cryptography, and network resilience.
+
+Affiliation: Rural Development Academy Laboratory School and College (RDALSC), Bogura, Bangladesh  
+ORCID: [0009-0007-0488-0198](https://orcid.org/0009-0007-0488-0198)
 
 ---
 
-## 🔬 Research & Intellectual Focus
+## Research Focus
 
-I investigate algebraic and algorithmic mechanisms bridging abstract discrete mathematics and real-world computational integrity. My research interests center on:
-- **Mathematical Cryptography:** Lattice-based cryptographic constructions (Learning With Errors / Ring-LWE), modular arithmetic, and post-quantum hardness assumptions.
-- **Interpretable Machine Learning & Data Integrity:** Designing non-black-box surrogate architectures for safety-critical systems (e.g., aerospace turbofan degradation modeling with NASA C-MAPSS).
-- **Resilient Distributed Systems:** High-throughput rate-limiting algorithms, reverse-proxy architectures, and zero-dependency network fault tolerance in Go and Python.
+- **Post-Quantum Cryptography:** Learning With Errors (LWE) and Ring-LWE implementations, modular arithmetic, and lattice reduction bounds.
+- **Interpretable Machine Learning:** Predictive surrogate models for sensor telemetry degradation using NASA C-MAPSS turbofan data.
+- **Network Systems:** Distributed reverse-proxy tooling, connection failover, and request queue optimization in Go.
 
 ---
 
-## 🚀 Key Open-Source Software & Research Implementations
+## Software & Research Repositories
 
-| Project | Domain | Architecture & Highlights |
+| Project | Focus | Description |
 | :--- | :--- | :--- |
-| **[lattice-crypto-bench](https://github.com/almazid-shisir/lattice-crypto-bench)** | Cryptography | Post-quantum lattice-based encryption benchmarks vs. standard RSA/ECC in pure Python. |
-| **[Alvus](https://github.com/almazid-shisir/Alvus)** | Distributed Systems | Zero-dependency Go reverse proxy with automatic round-robin failover and rate-limit recovery. |
-| **[ConceptLoom](https://github.com/almazid-shisir/ConceptLoom)** | Cognitive Systems | Dependency-graph learning workflow using spaced-retrieval and interactive knowledge frontiers. |
-| **[gemini-whisperflow](https://github.com/almazid-shisir/gemini-whisperflow)** | Audio & ML | Real-time audio streaming pipeline pairing OpenAI Whisper transcription with Gemini multimodal inference. |
+| [lattice-crypto-bench](https://github.com/almazid-shisir/lattice-crypto-bench) | Cryptography | Python implementation and runtime benchmark comparing LWE lattice schemes to modular RSA. |
+| [Alvus](https://github.com/almazid-shisir/Alvus) | Network Systems | Zero-dependency Go reverse proxy with automatic round-robin failover and rate-limit recovery. |
+| [ConceptLoom](https://github.com/almazid-shisir/ConceptLoom) | Cognitive Tools | Spaced-retrieval workflow engine for structuring prerequisite graphs across technical topics. |
+| [gemini-whisperflow](https://github.com/almazid-shisir/gemini-whisperflow) | Audio Systems | Local speech processing pipeline with automated punctuation and code-switching handling on Linux. |
 
 ---
 
-## 📊 Academic Distinctions & Recognitions
+## Academic Background & Awards
 
-- **International:** Asian Fluid Dynamics Research Summit (AFDA) — *Honourable Mention* (Interpretable Turbofan Health Modeling).
-- **National:** Ministry of Tech Impromptu Science & Technology Oratory Forum — *3rd Place Nationally* (9,000+ competitors).
-- **Institutional Research:** MIST ICEICT 7th Big Data Conference — *Accepted Research Paper Presentation*.
-- **Academic Merit:** Bangladesh Madrasah Education Board Dakhil Distinction — *Unweighted GPA 5.00/5.00 (Science)*.
+- **Asian Fluid Dynamics Research Summit (AFDA):** Honourable Mention for paper on interpretable degradation modeling of NASA turbofan data.
+- **National Science and Technology Oratory Forum (Ministry of Tech):** 3rd place in national impromptu division (9,000+ entrants).
+- **MIST ICEICT 7th Big Data Conference:** Accepted co-authored research paper on experimental data integrity protocols.
+- **Bangladesh Madrasah Education Board:** Dakhil Academic Distinction (Science), GPA 5.00/5.00.
 
 ---
 
-## 🛠️ Technical Stack & Methodologies
+## Tooling & Methods
 
-- **Languages:** Python (NumPy, SciPy, PyTorch), Go, C/C++, Bash, LaTeX
-- **Mathematical Tools:** OpenMC (Monte Carlo Neutron Transport), Discrete Mathematics, Abstract Algebra
-- **Systems & Infrastructure:** Linux Kernel Tuning, Docker, Git, Distributed Routing Protocols
+- Languages: Python (NumPy, SciPy), Go, C/C++, Bash, LaTeX
+- Domains: Discrete mathematics, abstract algebra, OpenMC Monte Carlo reactor simulations, Linux network tuning

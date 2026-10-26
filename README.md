@@ -10,7 +10,7 @@
 ## 🔬 Research & Intellectual Focus
 
 I investigate algebraic and algorithmic mechanisms bridging abstract discrete mathematics and real-world computational integrity. My research interests center on:
-- **Mathematical Cryptography:** Lattice-based cryptographic constructions (LWE/RLWE), modular arithmetic, and post-quantum hardness assumptions.
+- **Mathematical Cryptography:** Lattice-based cryptographic constructions (Learning With Errors / Ring-LWE), modular arithmetic, and post-quantum hardness assumptions.
 - **Interpretable Machine Learning & Data Integrity:** Designing non-black-box surrogate architectures for safety-critical systems (e.g., aerospace turbofan degradation modeling with NASA C-MAPSS).
 - **Resilient Distributed Systems:** High-throughput rate-limiting algorithms, reverse-proxy architectures, and zero-dependency network fault tolerance in Go and Python.
 
